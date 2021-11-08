@@ -42,7 +42,7 @@ function Homepage() {
                                         style={{ fontSize: 14 }}>{item.species}</Typography>
                                     
                                    </CardContent>
-                                   </Card>
+                                   </Card> 
                                     </Link> 
                             </div>
                     )
