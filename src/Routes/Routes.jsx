@@ -6,7 +6,7 @@ function Routes() {
     return (
         <div>
             <Switch>
-            <Route exact path ="/para/:id"><Singlepage/></Route>
+            <Route exact path ="/para"><Singlepage/></Route>
             </Switch>
         </div>
     )
