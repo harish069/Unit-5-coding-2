@@ -1,0 +1,10 @@
+.dat {
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  grid-gap: 10px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
